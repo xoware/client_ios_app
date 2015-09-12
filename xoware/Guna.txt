@@ -1,0 +1,62 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 25 (0x19)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=ENCA
+        Validity
+            Not Before: Sep  9 05:25:23 2015 GMT
+            Not After : Oct  8 05:25:23 2078 GMT
+        Subject: CN=Guna2@vpex.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c1:07:08:d6:72:57:d5:45:78:0e:7b:a6:74:c8:
+                    4d:2a:c5:67:b9:d0:25:75:66:d2:bf:ad:3c:54:35:
+                    97:3a:5a:40:87:81:3f:ff:94:d5:db:fe:cb:38:fb:
+                    e7:8a:f6:9c:e8:b1:32:34:46:ec:73:a2:58:3d:4a:
+                    f6:a3:4b:c4:c0:c4:4a:69:80:7f:cc:93:1f:3b:a9:
+                    a6:cf:96:2b:93:29:87:40:1d:7d:25:1c:37:9d:e8:
+                    b9:42:67:c0:6e:15:ea:e2:2b:94:33:4e:76:45:e9:
+                    1c:57:50:ec:14:ee:46:b7:bd:22:13:0d:0e:09:42:
+                    ab:19:ff:2f:96:b5:68:45:f1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                email:Guna2@vpex.org
+    Signature Algorithm: sha1WithRSAEncryption
+         ca:ab:09:8d:40:27:ff:63:16:00:3e:78:90:f1:a7:75:9e:31:
+         b9:3f:78:b3:91:ec:46:53:18:77:e8:1b:97:14:7a:21:44:5b:
+         ea:10:5c:a7:2f:78:85:dd:05:00:13:7c:c6:80:f5:1a:3c:aa:
+         c6:e4:b7:50:f1:6a:8c:43:9f:9d:7f:18:5b:40:ee:15:bd:ba:
+         66:17:de:bc:52:a9:ca:40:78:ea:3b:33:50:74:88:ac:be:c6:
+         2c:87:7d:6a:3d:a4:34:01:e0:f2:34:28:4e:74:5c:cb:b3:9c:
+         3e:8e:65:3b:74:3c:83:65:a8:94:83:44:57:ff:d6:86:95:4e:
+         40:91:61:cc:61:5a:4f:ad:10:e8:78:1d:be:35:1a:f3:b0:dc:
+         82:4a:5d:3a:34:1e:08:67:c8:eb:89:13:13:5f:2e:8c:a5:aa:
+         67:43:5a:1b:f2:b2:17:c5:eb:7f:0b:44:70:56:fd:4c:b1:83:
+         4c:33:25:4a:bd:9c:4d:6d:9e:ed:d6:5e:80:9c:28:a3:2c:bb:
+         55:c1:2b:9c:d4:6a:6a:73:05:6f:95:9f:7a:d3:0c:2a:20:54:
+         fd:ea:7d:09:44:63:b3:38:cb:1d:79:3f:8f:0f:37:bd:a8:9b:
+         47:8b:80:6d:0c:64:7a:5b:ae:54:10:1f:87:95:c8:10:6a:f2:
+         c5:ea:4b:e7
+-----BEGIN CERTIFICATE-----
+MIICVjCCAT6gAwIBAgIBGTANBgkqhkiG9w0BAQUFADAPMQ0wCwYDVQQDEwRFTkNB
+MCAXDTE1MDkwOTA1MjUyM1oYDzIwNzgxMDA4MDUyNTIzWjAZMRcwFQYDVQQDDA5H
+dW5hMkB2cGV4Lm9yZzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwQcI1nJX
+1UV4DnumdMhNKsVnudAldWbSv608VDWXOlpAh4E//5TV2/7LOPvnivac6LEyNEbs
+c6JYPUr2o0vEwMRKaYB/zJMfO6mmz5YrkymHQB19JRw3nei5QmfAbhXq4iuUM052
+RekcV1DsFO5Gt70iEw0OCUKrGf8vlrVoRfECAwEAAaM1MDMwCQYDVR0TBAIwADAL
+BgNVHQ8EBAMCBeAwGQYDVR0RBBIwEIEOR3VuYTJAdnBleC5vcmcwDQYJKoZIhvcN
+AQEFBQADggEBAMqrCY1AJ/9jFgA+eJDxp3WeMbk/eLOR7EZTGHfoG5cUeiFEW+oQ
+XKcveIXdBQATfMaA9Ro8qsbkt1DxaoxDn51/GFtA7hW9umYX3rxSqcpAeOo7M1B0
+iKy+xiyHfWo9pDQB4PI0KE50XMuznD6OZTt0PINlqJSDRFf/1oaVTkCRYcxhWk+t
+EOh4Hb41GvOw3IJKXTo0HghnyOuJExNfLoylqmdDWhvyshfF638LRHBW/Uyxg0wz
+JUq9nE1tnu3WXoCcKKMsu1XBK5zUampzBW+Vn3rTDCogVP3qfQlEY7M4yx15P48P
+N72om0eLgG0MZHpbrlQQH4eVyBBq8sXqS+c=
+-----END CERTIFICATE-----
