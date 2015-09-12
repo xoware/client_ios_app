@@ -47,8 +47,7 @@
         [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(vpnConnectionStatusChanged) name:NEVPNStatusDidChangeNotification object:nil];
     
         [self.manager loadFromPreferencesWithCompletionHandler:^(NSError *error) {
-            NSError *startError;
-        
+
             if (error) {
                 NSLog(@"Load config failed [%@]", error.localizedDescription);
                 return;
@@ -61,12 +60,8 @@
                 protocol = [[NEVPNProtocolIKEv2 alloc] init];
             }
             
-            NSString *filePath = [[NSBundle mainBundle] pathForResource:@"Guna" ofType:@"txt"];
-            NSString *certBase64String = [NSString stringWithContentsOfFile:filePath encoding:NSUTF8StringEncoding error:NULL];
             NSString *certPassword = @"vp3x";
-        
             NSString *url = @"98.173.164.221";
-            
             
             protocol.certificateType = NEVPNIKEv2CertificateTypeECDSA256;
             protocol.authenticationMethod = NEVPNIKEAuthenticationMethodCertificate;
